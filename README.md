@@ -6,6 +6,6 @@ https://github.com/skiselev
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/MSX_IDE_Clon_SUNRISE/blob/main/Images/placa2.jpg)
-
 ![Alt text](https://github.com/capsule5000/MSX_IDE_Clon_SUNRISE/blob/main/Images/msx-ide.jpg)
+
+![Alt text](https://github.com/capsule5000/MSX_IDE_Clon_SUNRISE/blob/main/Images/placa2.jpg)
