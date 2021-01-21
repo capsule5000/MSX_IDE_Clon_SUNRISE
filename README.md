@@ -6,6 +6,6 @@ https://github.com/skiselev
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/O4MEGA_v2/blob/main/Images/o4megav2.png)
+![Alt text](https://github.com/capsule5000/MSX_IDE_Clon_SUNRISE/blob/main/Images/placa2.jpg)
 
-![Alt text](https://github.com/capsule5000/O4MEGA_v2/blob/main/Images/o4megav2_3.png)
+![Alt text](https://github.com/capsule5000/MSX_IDE_Clon_SUNRISE/blob/main/Images/msx-ide.jpg)
